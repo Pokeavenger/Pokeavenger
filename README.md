@@ -1,50 +1,18 @@
-# Hi there 👋, I'm Sharv Mehta  
+# 💫 About Me:
+# Hi there 👋, I'm Sharv Mehta  <br><br>🚀 AI & Machine Learning Enthusiast | GenAI Developer | Building Intelligent Systems  <br><br>## 👨‍💻 About Me<br>- 🎓 3rd Year Engineering Student passionate about Artificial Intelligence and emerging technologies  <br>- 🧠 Currently working on and learning **RAG Applications, Generative AI, and Agentic AI Systems**  <br>- 💻 Skilled in Python, Machine Learning, Backend Development, and AI Integrations  <br>- 🔬 Built projects involving AI vs Human Text Classification using RoBERTa, Automation Systems, and AI-powered Applications  <br>- 🌱 Exploring LLM Engineering, AI Agents, Retrieval Systems, and Scalable AI Architectures  <br>- ⚡ Passionate about building real-world AI solutions that automate and simplify workflows  <br><br>## 🛠️ Tech Stack<br><br>### Languages & Development<br>- Python  <br>- C / C++  <br>- SQL  <br>- Git & GitHub  <br>- FastAPI  <br>- Flask  <br><br>### AI / ML / GenAI<br>- Scikit-learn  <br>- Pandas & NumPy  <br>- Hugging Face Transformers  <br>- NLP & Text Classification  <br>- RAG Pipelines  <br>- Generative AI Applications  <br>- Agentic AI Workflows  <br>- TensorFlow / PyTorch (Learning)  <br><br>## 📌 Current Focus<br>- 🤖 AI Agents & Agentic Workflows  <br>- 🔍 Retrieval-Augmented Generation (RAG)  <br>- 🧠 LLM-based Applications  <br>- ⚙️ Intelligent Automation Systems  <br>- 🚀 Building scalable AI products  <br><br>## 🤝 Looking to Collaborate On<br>- AI/ML & GenAI Projects  <br>- Open Source Contributions  <br>- AI Automation Tools  <br>- Intelligent Web Applications  <br><br>## 📫 Connect With Me<br>- 📧 Email: **mehtasharv0208@gmail.com**  <br><br>## ⚽ Fun Fact<br>- Footballer by hobby ⚽ | AI Builder by passion 🚀
 
-🚀 AI & Machine Learning Enthusiast | GenAI Developer | Building Intelligent Systems  
 
-## 👨‍💻 About Me
-- 🎓 3rd Year Engineering Student passionate about Artificial Intelligence and emerging technologies  
-- 🧠 Currently working on and learning **RAG Applications, Generative AI, and Agentic AI Systems**  
-- 💻 Skilled in Python, Machine Learning, Backend Development, and AI Integrations  
-- 🔬 Built projects involving AI vs Human Text Classification using RoBERTa, Automation Systems, and AI-powered Applications  
-- 🌱 Exploring LLM Engineering, AI Agents, Retrieval Systems, and Scalable AI Architectures  
-- ⚡ Passionate about building real-world AI solutions that automate and simplify workflows  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharv_0709) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sharv-mehta-a0425329b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehtasharv0208@gmail.com) 
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pokeavenger&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pokeavenger&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pokeavenger&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Languages & Development
-- Python  
-- C / C++  
-- SQL  
-- Git & GitHub  
-- FastAPI  
-- Flask  
+---
+[![](https://komarev.com/ghpvc/?username=Pokeavenger&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### AI / ML / GenAI
-- Scikit-learn  
-- Pandas & NumPy  
-- Hugging Face Transformers  
-- NLP & Text Classification  
-- RAG Pipelines (Learning)
-- Generative AI Applications  
-- Agentic AI Workflows (Learning) 
-- TensorFlow / PyTorch (Learning)  
-
-## 📌 Current Focus
-- 🤖 AI Agents & Agentic Workflows  
-- 🔍 Retrieval-Augmented Generation (RAG)  
-- 🧠 LLM-based Applications  
-- ⚙️ Intelligent Automation Systems  
-- 🚀 Building scalable AI products  
-
-## 🤝 Looking to Collaborate On
-- AI/ML & GenAI Projects  
-- Open Source Contributions  
-- AI Automation Tools  
-- Intelligent Web Applications  
-
-## 📫 Connect With Me
-- 📧 Email: **mehtasharv0208@gmail.com**  
-
-## ⚽ Fun Fact
-- Footballer by hobby ⚽ | AI Builder by passion 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
